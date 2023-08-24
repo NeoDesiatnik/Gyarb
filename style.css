@@ -1,0 +1,17 @@
+body {
+    background-image: url(./20230720_195832.jpg);
+    background-size: 130%;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.container {
+    width: min(80ch, 100vw - 4rem);
+    margin-inline: auto;
+}
+p {
+    color: #F0f0f0;
+}
+main {
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
